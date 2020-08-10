@@ -7,7 +7,7 @@ so they can be read into the Giraffe software as reference
 """
 
 
-MCC_FILENAME = "Example_PDD_150MeV.mcc"
+MCC_FILENAME = "example_pdd_150MeV.mcc"
 
 
 

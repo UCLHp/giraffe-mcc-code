@@ -1,15 +1,15 @@
 # giraffe-mcc-code
 Conversion from PTW's water tank mcc format to Giraffe's csv format.
 
-# Description
+## Description
 A calibration measurement is needed each time the Giraffe is used.
 The calibration measurement needs a corresponding water phantom reference measurement in RFB/csv format.
-Our reference measurement comes from the PTW water which outputs mcc files.
+Our reference measurement comes from the PTW water tank which outputs mcc files.
 
-# Use
+## Use
 Specify the name of your mcc file in the MCC_FILENAME variable and run the code: ```python mcc_to_csv.py```
 
-# License
+## License
 ```
 Copyright (C) 2020 Anamaria Barburas
 
